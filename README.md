@@ -29,29 +29,8 @@
 <p>Описание решения<p>
 
 (https://qa-bag-reporter.atlassian.net/wiki/spaces/~63d4e612c565900ff40683f8/pages/edit-v2/425985?draftShareId=0132f2c4-7808-45c4-b8fd-a0041fe9e160)](https://qa-bag-reporter.atlassian.net/wiki/spaces/~63d4e612c565900ff40683f8/pages/edit-v2/425985?draftShareId=0132f2c4-7808-45c4-b8fd-a0041fe9e160)
-> <p> логин: dehico8286@fsouda.com </p>
-> <p> пароль: 16Jan2023 </p>
- 
- <p>Выводы (итоги):<p>
-<ol>
-  <li>Итог №1</li>
-  <li>Итог №2</li>
-</ol>
-
-
-<br> 
-
-<p> Проект 2: тест кабинета учителя в приложении Skyeng</p>
-<p>Что нужно было сделать:<p>
-<ol>
-  <li>Задача №1</li>
-  <li>Задача №2.</li>
-</ol>
-
-<p>Как решала(-а): краткое описание решения (автореферат)<p>
->https://qa-bag-reporter.atlassian.net/wiki/spaces/~63d4e612c565900ff40683f8/pages/edit-v2/425985?draftShareId=0132f2c4-7808-45c4-b8fd-a0041fe9e160
-> логин: yara.filin@gmail.com
-пароль: hirurgia23
+- логин: yara.filin@gmail.com
+- пароль: hirurgia23
  
  <p>Выводы (итоги):<p>
 <ol>
