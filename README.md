@@ -28,8 +28,7 @@
 
 <p>Описание решения<p>
 
-> [[<a href="https://testqa35.atlassian.net/wiki/spaces/MP/pages/33272/EX1+1">Ссылка на проект</a>
-  (ссылка должна содержать демонстративные материалы: скриншоты, таблички, запросы, код. Работодатель должен иметь возможность быстро посмотреть результаты работы)](https://qa-bag-reporter.atlassian.net/wiki/spaces/~63d4e612c565900ff40683f8/pages/edit-v2/425985?draftShareId=0132f2c4-7808-45c4-b8fd-a0041fe9e160)](https://qa-bag-reporter.atlassian.net/wiki/spaces/~63d4e612c565900ff40683f8/pages/edit-v2/425985?draftShareId=0132f2c4-7808-45c4-b8fd-a0041fe9e160)
+(https://qa-bag-reporter.atlassian.net/wiki/spaces/~63d4e612c565900ff40683f8/pages/edit-v2/425985?draftShareId=0132f2c4-7808-45c4-b8fd-a0041fe9e160)](https://qa-bag-reporter.atlassian.net/wiki/spaces/~63d4e612c565900ff40683f8/pages/edit-v2/425985?draftShareId=0132f2c4-7808-45c4-b8fd-a0041fe9e160)
 > <p> логин: dehico8286@fsouda.com </p>
 > <p> пароль: 16Jan2023 </p>
  
